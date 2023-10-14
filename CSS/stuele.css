@@ -1,0 +1,21 @@
+h1{
+    color: rgb(226, 214, 43);
+}
+.bl1{
+    display: block;
+    border-width: 3px 20px 40px 60px;
+    border-color:blue;
+    border-style: solid ;
+    background-color:aquamarine;
+}
+.bl2{
+    background-color: aqua;
+    width:300px;
+    border-color: brown;
+    margin: lpx ;
+}
+#im1{
+    width: 200px;
+    height:300px;
+    border-radius:40%;
+}
